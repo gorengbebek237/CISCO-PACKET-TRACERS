@@ -31,7 +31,7 @@ Sistem ini menggunakan dua lapis **Access Control List (ACL)** untuk menegakkan 
    - Departemen **HR** dan **Finance** dilarang berkomunikasi atau mengirim paket ke area Server (VLAN 40).
    - Departemen **IT** memiliki hak akses penuh ke Server.
 2. **Infrastructure Management Protection (Standard ACL):**
-   - *Remote login* ke infrastruktur (Router/Switch) dipaksa menggunakan **SSH** (Telnet dinonaktifkan).
+   - *Remote login* ke infrastruktur (Router/Switch) menggunakan **SSH**.
    - Hanya perangkat dari departemen **IT (VLAN 10)** yang diizinkan untuk membuka sesi SSH ke Router (Gateway). Departemen lain akan ditolak (Connection Refused).
 
 ## ⚡ High Availability (HSRP) Testing
