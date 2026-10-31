@@ -1,7 +1,6 @@
 # Enterprise Branch Network Design: Secure Router-on-a-Stick Architecture
 
-![Topology Overview](link_ke_gambar_topologi_kamu.png)
-*Silakan ganti link di atas dengan screenshot topologi fisik dari Cisco Packet Tracer.*
+![Topology Overview](Topologi_Proyek1.png)
 
 ## 📌 Project Overview
 Proyek ini adalah implementasi komprehensif dari kurikulum **Cisco CCNA 200-301**. Proyek ini mendemonstrasikan perancangan arsitektur jaringan *enterprise branch* (cabang perusahaan) tradisional menggunakan pendekatan **Router-on-a-Stick (RoaS)** yang dikombinasikan dengan protokol *High Availability* dan skema pengamanan bertingkat.
