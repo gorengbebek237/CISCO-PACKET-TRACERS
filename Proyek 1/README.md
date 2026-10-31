@@ -49,4 +49,4 @@ Saat link utama ke R1 diputus paksa (simulasi kerusakan *hardware*), R2 sukses m
 5. Dari **PC-IT-1**, akses CLI Router lewat SSH: `ssh -l admin 192.168.10.254` (Password: `cisco123`).
 
 ---
-*Created by [Nama Kamu/Link LinkedIn] as part of Cisco CCNA Portfolio.*
+*Created by [Muhammad Luqman Hakim/https://www.linkedin.com/in/muhammad-luqman-hakim-b92bb6419] as part of Portfolio.*
